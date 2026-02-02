@@ -1,0 +1,45 @@
+# =========================
+# Unreal Engine 4/5
+# =========================
+
+# Binaries et build locaux
+Binaries/
+Build/
+
+# Intermediate files
+Intermediate/
+
+# Sauvegardes locales, logs, screenshots
+Saved/
+*.log
+*.dmp
+
+# Derived Data Cache
+DerivedDataCache/
+
+# Config locaux
+*.user
+*.userprefs
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Mac/OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# =========================
+# Tes règles perso / Makefile
+# =========================
+*~
+# Emacs
+\#*#
+# Vi
+.*.swp
+*.o
+hello
+temp-file.txt
