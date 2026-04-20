@@ -16,11 +16,11 @@ Jeu de course avec support multijoueur, créé sur Unreal Engine 5. Les joueurs 
 | Composant | Minimum | Recommandé |
 |-----------|---------|-------------|
 | **OS** | Windows 10 | Windows 11 |
-| **Processeur** | 1.5 - 2 GHz|
+| **Processeur** | 1.5 GHz| 2 GHz
 | **RAM** | 8 Go | 16 Go |
-| **Carte graphique** | 2-4 GO |
-| **DirectX** | Version 11 | Version 12 |
-| **Espace disque** | 10 Go | 20 Go |
+| **Carte graphique** | 2 Go | 4Go
+ | **DirectX** | Version 11 | Version 12 |
+| **Espace disque** | 3 Go | 3 Go |
 
 ##  Commandes
 
